@@ -2,7 +2,7 @@
 
 Software Architect, Full Stack Developer and Dev Ops Engineer with 20 years of experience in the software industry. Building cutting edge apps, leading teams and delivering cost effective solutions. Always eager to learn new technologies and loves to automate as much work as possible.
 
-Currently programming in React, React Native, Node, Express, Mongo, Jest and deploying infrastructure in AWS - API Gateway, Lambda, DynamoDB, EC2, S3, CloudFront.
+Currently programming in React, React Native, Gatsby, Node, Express, Mongo, Jest and deploying infrastructure in AWS - API Gateway, Lambda, DynamoDB, EC2, S3, CloudFront.
 
 If you can imagine it, I can make it a reality.
 
