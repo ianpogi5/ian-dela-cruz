@@ -9,6 +9,7 @@ If you can imagine it, I can make it a reality.
 ## Current
 
 - **Founder** at [KDC Software](https://www.kdcsoftware.com)
+- **Founder/Chief Technology Officer** at [Servelen](https://www.servelen.com)
 - **Chief Technology Officer** at [GetGenie](https://www.getgenie.com/)
 - **Software Architect Consultant** at Accur8 Enterprise Solutions Inc.
 
