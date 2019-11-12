@@ -11,7 +11,7 @@ If you can imagine it, I can make it a reality.
 - **Founder** at [KDC Software](https://www.kdcsoftware.com)
 - **Founder/Chief Technology Officer** at [Servelen](https://www.servelen.com)
 - **Chief Technology Officer** at [GetGenie](https://www.getgenie.com/)
-- **Software Architect Consultant** at Accur8 Enterprise Solutions Inc.
+- **Software Architect Consultant** at [Accur8 Enterprise Solutions Inc.](https://www.aesiph.com/)
 
 ## Past
 
@@ -20,6 +20,10 @@ If you can imagine it, I can make it a reality.
 - Software Engineer at MiCOM Technologies Corp (3years 2months)
 - Software Engineer at Hugle Technologies Inc. (2years 6months)
 - Associate Software Engineer at Canon Information Technologies Philippines Inc. (1year 1month)
+
+## Achievements
+- Created Fynd's platform where 90% of job request did not need any customer service intervention. Provided an efficient way for customers and technicians interact.
+- Created KAYWEB PHP Framework and CMS. Used in hundreds of web projects from personal websites to high traffice e-commerce websites.
 
 ## Education
 
