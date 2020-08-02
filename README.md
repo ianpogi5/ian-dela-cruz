@@ -31,4 +31,4 @@ If you can imagine it, I can make it a reality.
 
 ## My Github Stats
 
-[![ianpogi5's github stats](https://github-readme-stats.vercel.app/api?username=ianpogi5)](https://github.com/anuraghazra/github-readme-stats)
+![ianpogi5's github stats](https://github-readme-stats.vercel.app/api?username=ianpogi5)
