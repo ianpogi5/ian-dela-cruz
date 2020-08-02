@@ -28,3 +28,7 @@ If you can imagine it, I can make it a reality.
 ## Education
 
 - **University of Santo Tomas** B.S. Electrical Engineering (1995-2000)
+
+## My Github Stats
+
+[![ianpogi5's github stats](https://github-readme-stats.vercel.app/api?username=ianpogi5)](https://github.com/anuraghazra/github-readme-stats)
