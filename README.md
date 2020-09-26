@@ -6,6 +6,8 @@ Currently programming in React, React Native, Gatsby, Node, Express, Mongo, Jest
 
 If you can imagine it, I can make it a reality.
 
+Checkout my Open Source projects at [https://github.com/kdcsoftware](https://github.com/kdcsoftware).
+
 ## Current
 
 - **Founder** at [KDC Software](https://www.kdcsoftware.com)
