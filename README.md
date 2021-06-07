@@ -10,6 +10,7 @@ Checkout my Open Source projects at [https://github.com/kdcio](https://github.co
 
 ## Current
 
+- **Senior Tech Lead** at [Digiteer](https://www.digiteer.digital/)
 - **Founder** at [KDC Software](https://www.kdcsoftware.com)
 - **Founder/Chief Technology Officer** at [Servelen](https://www.servelen.com)
 - **Software Architect Consultant** at [Accur8 Enterprise Solutions Inc.](https://www.aesiph.com/)
