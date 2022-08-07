@@ -10,13 +10,14 @@ Checkout my Open Source projects at [https://github.com/kdcio](https://github.co
 
 ## Current
 
-- **CTO and Co-Founder** at [Digiteer](https://www.digiteer.digital/)
-- **Founder** at [KDC Software](https://www.kdcsoftware.com)
-- **Founder/Chief Technology Officer** at [Servelen](https://www.servelen.com)
-- **Software Architect Consultant** at [Accur8 Enterprise Solutions Inc.](https://www.aesiph.com/)
+- **Technical Adviser** at [EdgeWorks](https://www.edgeworks.com.sg/)
 
 ## Past
 
+- **Founder** at [KDC Software](https://www.kdcsoftware.com)
+- **Founder/Chief Technology Officer** at [Servelen](https://www.servelen.com)
+- **Software Architect Consultant** at [Accur8 Enterprise Solutions Inc.](https://www.aesiph.com/)
+- **CTO and Co-Founder** at [Digiteer](https://www.digiteer.digital/)
 - **Chief Technology Officer** at Gobbler Pty Ltd (1year)
 - **Chief Technology Officer** at [Fynd](https://www.getfynd.com) (3years 10months)
 - **Head of Engineer** at KayWeb Holdings Pty Limited (10years 6months)
